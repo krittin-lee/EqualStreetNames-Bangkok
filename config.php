@@ -23,6 +23,7 @@ return [
     'gender' => [
         'relation' => [],
         'way' => [
+            '25708068' => 'F'
             /*
             '12121212' => 'F', // Pia Mancini road
             '13131312' => 'M', // Mister nobody Street
